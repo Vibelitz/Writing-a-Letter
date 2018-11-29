@@ -1,0 +1,39 @@
+body {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+header {
+  text-align: center;
+  font-family: sans-serif;
+  color: blue;
+  text-shadow: 1px 1px 3px red;
+  padding: 10px;
+  font-weight: bold;
+  background-color: lightblue;
+}
+
+.sender-column {
+  text-align: right;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+
+h2 {
+  font-size: 1.3em;
+}
+
+h3 {
+  font-size: 1.2em;
+  color: purple;
+}
+
+p,ul,ol,dl,address {
+  font-size: 1.1em;
+}
+
+p, li, dd, dt, address {
+  line-height: 1.5;
+}
